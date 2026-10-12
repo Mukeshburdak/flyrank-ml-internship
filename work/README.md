@@ -1,5 +1,20 @@
 # work/ — your space
 
+## Current project
+
+**Project title:** Machine Learning-Based Content Refresh Prioritization Using Search Performance Analytics
+
+This workspace is organized for a human-reviewed content refresh prioritization project. The current state is setup and planning: do not treat starter-repository example metrics as results from this project.
+
+- [Project status and checklist](PROJECT_STATUS.md)
+- [Capstone report scaffold](capstone_report.md)
+- [Project-specific scripts](scripts/README.md)
+- [Figures guidance](figures/README.md)
+- [Metrics output guidance](outputs/README.md)
+
+The report is deliberately marked as a work in progress. Fill in methods, metrics, findings, and recommendations only after the relevant analysis has actually been run and verified.
+
+
 Everything you build lives here: lane experiments, notebooks, figures, and your capstone
 report. The rest of the repo is the shared reference; this folder is yours.
 
