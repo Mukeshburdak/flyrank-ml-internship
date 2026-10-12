@@ -16,7 +16,7 @@
 
 - [x] Complete ML-02: define the research question and decision. Verified in `work/notebooks/w01_research_question.ipynb`; notebook includes executed data checks and was committed on 2026-07-26.
 - [ ] Review and complete ML-03: notebook revised to distinguish the retrospective decline proxy from a true ranking/refresh-benefit target; rerun the revised diagnostic cells and review before marking complete.
-- [ ] Complete ML-04: document the data contract, exclusions, and leakage risks.
+- [ ] Review and complete ML-04: data-contract notebook revised to use the approved local anonymized sample, verify actual schema/grain, and flag target/time-window leakage; run it in an approved environment and review checks before marking complete.
 - [ ] Complete ML-07: build and evaluate a transparent baseline.
 - [ ] Complete ML-08: train a suitable model only if the target and data support it.
 - [ ] Complete ML-09: audit the validation design and errors.
