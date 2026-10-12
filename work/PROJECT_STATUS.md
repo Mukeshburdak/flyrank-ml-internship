@@ -9,7 +9,7 @@
 - The starter repository and assignment notebook skeletons are present.
 - `work/README.md` is the guide for the workspace and remains the source of truth for assignment paths and data-use rules.
 - The capstone report scaffold has been created at `work/capstone_report.md`.
-- ML-02 is already completed and committed; continue from ML-03. The notebook includes exploratory numbers, which should be treated as descriptive observations rather than evidence that a refresh will cause recovery.
+- ML-02 is already completed and committed. ML-03 and ML-04 have been revised but still need an approved-environment rerun and review. ML-07 has now been prepared with a conservative metadata-only baseline; no results are claimed until it is run.
 - No model metrics or completed experiment results are claimed in this status file.
 
 ## Work sequence
@@ -17,7 +17,7 @@
 - [x] Complete ML-02: define the research question and decision. Verified in `work/notebooks/w01_research_question.ipynb`; notebook includes executed data checks and was committed on 2026-07-26.
 - [ ] Review and complete ML-03: notebook revised to distinguish the retrospective decline proxy from a true ranking/refresh-benefit target; rerun the revised diagnostic cells and review before marking complete.
 - [ ] Review and complete ML-04: data-contract notebook revised to use the approved local anonymized sample, verify actual schema/grain, and flag target/time-window leakage; run it in an approved environment and review checks before marking complete.
-- [ ] Complete ML-07: build and evaluate a transparent baseline.
+- [ ] Review and complete ML-07: baseline notebook now defines a transparent age/staleness rule, reason codes, ranked review queue, retrospective precision@K diagnostics, and leakage guards. Run it in an approved environment, inspect weak picks, and review generated aggregate metrics before marking complete.
 - [ ] Complete ML-08: train a suitable model only if the target and data support it.
 - [ ] Complete ML-09: audit the validation design and errors.
 - [ ] Complete ML-10: turn measured results into a human action playbook.
