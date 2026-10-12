@@ -9,11 +9,12 @@
 - The starter repository and assignment notebook skeletons are present.
 - `work/README.md` is the guide for the workspace and remains the source of truth for assignment paths and data-use rules.
 - The capstone report scaffold has been created at `work/capstone_report.md`.
+- ML-02 is already completed and committed; continue from ML-03. The notebook includes exploratory numbers, which should be treated as descriptive observations rather than evidence that a refresh will cause recovery.
 - No model metrics or completed experiment results are claimed in this status file.
 
 ## Work sequence
 
-- [ ] Complete ML-02: define the research question and decision.
+- [x] Complete ML-02: define the research question and decision. Verified in `work/notebooks/w01_research_question.ipynb`; notebook includes executed data checks and was committed on 2026-07-26.
 - [ ] Complete ML-03: frame the task and choose a defensible output/target.
 - [ ] Complete ML-04: document the data contract, exclusions, and leakage risks.
 - [ ] Complete ML-07: build and evaluate a transparent baseline.
